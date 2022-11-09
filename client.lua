@@ -341,7 +341,7 @@ function MenuGestionVeh()
 end
 
 
-exports(Config.ExportName, MenuGestionVeh)
+exports("MenuGestionVeh", MenuGestionVeh)
 
 
 if Config.OpenCommand == true then 

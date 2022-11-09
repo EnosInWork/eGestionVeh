@@ -16,3 +16,5 @@ client_scripts {
     "src/menu/windows/*.lua",
     "client.lua",
 }
+
+export 'MenuGestionVeh'
